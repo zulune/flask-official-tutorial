@@ -1,5 +1,10 @@
+# Virtualenv
 env/
 venv/
+
+# Settings
+.vscode/
+
 
 *.pyc
 __pycache__/
